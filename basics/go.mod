@@ -1,3 +1,3 @@
-module main
+module basics
 
 go 1.25.0
