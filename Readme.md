@@ -1,7 +1,5 @@
 # Condensed Notes from a Tour of Go
 
-*<sub>not really condensed 🥀<sub>*
-
 Source:
 https://go.dev/tour/list
 
